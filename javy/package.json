@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "javy": "^0.1.2"
+  },
+  "scripts": {
+    "test": "mocha",
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "path": "^0.12.7",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
